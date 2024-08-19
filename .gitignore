@@ -1,0 +1,8 @@
+
+# ignore image files
+*.png
+*.jpg
+
+# ignore tmp files
+*.nix~
+*.swp
